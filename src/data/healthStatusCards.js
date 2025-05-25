@@ -6,7 +6,6 @@ export const healthStatusCards = [
       id: 1, 
       title: 'Lungs', 
       date: 'Date: 26 Oct 2021', 
-      status: 'warning', 
       icon: Images.lungsImage,
       progress: 65,
       color: '#ef4444'
@@ -14,9 +13,8 @@ export const healthStatusCards = [
     { 
       id: 2, 
       title: 'Teeth', 
-      date: 'Date: 26 Oct 2021', 
-      status: 'healthy', 
-      icon: Images.lungsImage,
+      date: 'Date: 26 Oct 2021',  
+      icon: Images.toothImage,
       progress: 85,
       color: '#22c55e'
     },
@@ -24,8 +22,7 @@ export const healthStatusCards = [
       id: 3, 
       title: 'Bone', 
       date: 'Date: 26 Oct 2021', 
-      status: 'healthy', 
-      icon: Images.lungsImage,
+      icon: Images.boneImage,
       progress: 90,
       color: '#f97316'
     }

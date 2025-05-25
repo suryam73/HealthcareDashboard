@@ -1,36 +1,30 @@
+import {
+  LayoutDashboard,
+  SlidersHorizontal,
+  CalendarDays,
+  SquarePlus,
+  BarChart3,
+  MessageCircleMore,
+  Phone,
+  Settings,
+} from "lucide-react";
 
-import { 
-    Search, 
-    Bell, 
-    Plus, 
-    Home, 
-    History, 
-    Calendar, 
-    Users, 
-    BarChart3, 
-    FileText, 
-    MessageCircle, 
-    HelpCircle, 
-    Settings,
-    Heart,
-    Activity,
-    Smile,
-    Bone,
-    Clock,
-    User,
-    ChevronLeft,
-    ChevronRight,
-    ArrowRight
-  } from 'lucide-react';
+export const navigationLinksGeneral = [
+  { icon: LayoutDashboard, label: "Dashboard", active: true },
+  { icon: SlidersHorizontal, label: "History" },
+  { icon: CalendarDays, label: "Calendar" },
+  { icon: SquarePlus, label: "Appointments" },
+  { icon: BarChart3, label: "Statistics" },
 
-export const navigationLinks = [
-    { icon: Home, label: 'Dashboard', active: true },
-    { icon: History, label: 'History' },
-    { icon: Calendar, label: 'Calendar' },
-    { icon: Users, label: 'Appointments' },
-    { icon: BarChart3, label: 'Statistics' },
-    { icon: FileText, label: 'Tests' },
-    { icon: MessageCircle, label: 'Chat' },
-    { icon: HelpCircle, label: 'Support' },
-    { icon: Settings, label: 'Setting' }
-  ];
+];
+
+export const navigationLinksTool = [
+
+  { icon: MessageCircleMore, label: "Chat" },
+  { icon: Phone, label: "Support" },
+];
+
+
+export const navigationLinksSetting = [
+  { icon: Settings, label: "Setting" },
+];

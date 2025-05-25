@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HealthcareDashboard/static/css/main.42ca4782.css",
+    "main.js": "/HealthcareDashboard/static/js/main.8a7507f0.js",
+    "static/js/453.59b8a61b.chunk.js": "/HealthcareDashboard/static/js/453.59b8a61b.chunk.js",
+    "static/media/humanImage.png": "/HealthcareDashboard/static/media/humanImage.04c5dd188c3ec1859793.png",
+    "static/media/InjectionImage.png": "/HealthcareDashboard/static/media/InjectionImage.c5e77e7f19479e21965f.png",
+    "static/media/ToothImage.png": "/HealthcareDashboard/static/media/ToothImage.f67e231710db22d7e70b.png",
+    "static/media/LungsImage.png": "/HealthcareDashboard/static/media/LungsImage.8d90eeabe740ed6fa981.png",
+    "static/media/HeartImage.png": "/HealthcareDashboard/static/media/HeartImage.8aa648cae944883d67d0.png",
+    "static/media/DoctorImage.png": "/HealthcareDashboard/static/media/DoctorImage.f460b0568357045c95e3.png",
+    "static/media/EyeImage.png": "/HealthcareDashboard/static/media/EyeImage.66e1eefd4fae6149b0d8.png",
+    "static/media/ArmsImage.webp": "/HealthcareDashboard/static/media/ArmsImage.48718e5cacbf78e5fd89.webp",
+    "static/media/BoneImage.png": "/HealthcareDashboard/static/media/BoneImage.ef401a4d2d81cf199ddc.png",
+    "static/media/LegImage.png": "/HealthcareDashboard/static/media/LegImage.e10d9f7964f4d3356fde.png",
+    "index.html": "/HealthcareDashboard/index.html",
+    "main.42ca4782.css.map": "/HealthcareDashboard/static/css/main.42ca4782.css.map",
+    "main.8a7507f0.js.map": "/HealthcareDashboard/static/js/main.8a7507f0.js.map",
+    "453.59b8a61b.chunk.js.map": "/HealthcareDashboard/static/js/453.59b8a61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42ca4782.css",
+    "static/js/main.8a7507f0.js"
+  ]
+}
