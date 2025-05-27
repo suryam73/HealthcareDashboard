@@ -9,15 +9,18 @@ const HealthStatusCards = () => (
         key={card.id}
         className="bg-backGroudColor relative rounded-xl px-3 py-2 shadow-sm"
       >
-        <div className="flex flex-col gap-2 sm:flex-row sm:items-center">
-          <img src={card.icon} alt={card.title} className="w-8 h-8 sm:w-10 sm:h-10" />
-          <div className="flex flex-col w-full">
-            <div className="font-semibold text-gray-800 text-sm sm:text-base">
+        <div className="flex flex-col gap-2  sm:items-center">
+         <div className='flex items-center gap-2 sm:gap-3'>
+         <img src={card.icon} alt={card.title} className="w-8 h-8 sm:w-8 sm:h-8" />
+          <div className="font-semibold text-gray-800 text-sm sm:text-base">
               {card.title}
             </div>
-            <p className="text-[11px] sm:text-xs text-gray-500 whitespace-normal break-words mb-2">
+           </div>
+          <div className="flex flex-col w-full">
+        
+            <div className="text-[11px] sm:text-xs text-gray-500 whitespace-normal break-words mb-2">
               {card.date}
-            </p>
+            </div>
             <div className="w-full bg-gray-200 rounded-full h-2">
               <div
                 className="h-2 rounded-full transition-all duration-300"

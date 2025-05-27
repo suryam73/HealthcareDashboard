@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HealthcareDashboard/static/css/main.42ca4782.css",
-    "main.js": "/HealthcareDashboard/static/js/main.8a7507f0.js",
+    "main.css": "/HealthcareDashboard/static/css/main.09bdb4d2.css",
+    "main.js": "/HealthcareDashboard/static/js/main.98e2c27b.js",
     "static/js/453.59b8a61b.chunk.js": "/HealthcareDashboard/static/js/453.59b8a61b.chunk.js",
     "static/media/humanImage.png": "/HealthcareDashboard/static/media/humanImage.04c5dd188c3ec1859793.png",
     "static/media/InjectionImage.png": "/HealthcareDashboard/static/media/InjectionImage.c5e77e7f19479e21965f.png",
@@ -14,12 +14,12 @@
     "static/media/BoneImage.png": "/HealthcareDashboard/static/media/BoneImage.ef401a4d2d81cf199ddc.png",
     "static/media/LegImage.png": "/HealthcareDashboard/static/media/LegImage.e10d9f7964f4d3356fde.png",
     "index.html": "/HealthcareDashboard/index.html",
-    "main.42ca4782.css.map": "/HealthcareDashboard/static/css/main.42ca4782.css.map",
-    "main.8a7507f0.js.map": "/HealthcareDashboard/static/js/main.8a7507f0.js.map",
+    "main.09bdb4d2.css.map": "/HealthcareDashboard/static/css/main.09bdb4d2.css.map",
+    "main.98e2c27b.js.map": "/HealthcareDashboard/static/js/main.98e2c27b.js.map",
     "453.59b8a61b.chunk.js.map": "/HealthcareDashboard/static/js/453.59b8a61b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42ca4782.css",
-    "static/js/main.8a7507f0.js"
+    "static/css/main.09bdb4d2.css",
+    "static/js/main.98e2c27b.js"
   ]
 }
